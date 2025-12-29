@@ -22,3 +22,9 @@ energy solutions.
 - Mint Authority: Disabled (if applicable)
 
 This repository is created for official token verification and public transparency.
+
+## ⚠️ Scam Warning
+
+Bitcoin Lithium Energy (BLE) has only ONE official token on Solana.
+Only trust the mint address and links listed in this GitHub repository.
+Any other token or link using this name is not official.

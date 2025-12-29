@@ -5,7 +5,7 @@ green energy innovation, EV charging infrastructure, and blockchain-powered
 energy solutions.
 
 ## Token Details
-- Name: Bitcoin Lithium Energy
+- Name: BITCOIN LITHIUM ENERGY 
 - Symbol: BLE
 - Blockchain: Solana
 - Mint Address: AgA3ddHsUPk19xqCQiN9nzmTjS5JVWFyRDuA79Svpump

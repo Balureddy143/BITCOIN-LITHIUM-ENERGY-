@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="IMG_20251228_100827.jpg" width="150" alt="Coin Logo">
-</p>
-
+![Coin Logo](BEL.jpg)
 
 # BITCOIN LITHIUM ENERGY (BLE)
 

@@ -1,5 +1,14 @@
 <img src="IMG_20251228_100827.png" width="200">
 
+# Bitcoin Lithium Energy (BLE)
+
+Bitcoin Lithium Energy (BLE) is a Solana-based crypto project focused on
+green energy, low-cost electricity, EV charging infrastructure,
+and crypto-based payments.
+
+⚠️ Note: BLE here refers to Bitcoin Lithium Energy,
+not Bluetooth Low Energy.
+
 # BITCOIN LITHIUM ENERGY (BLE)
 
 BITCOIN LITHIUM ENERGY (BLE) is a Solana-based crypto project focused on

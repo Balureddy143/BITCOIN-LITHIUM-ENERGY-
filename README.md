@@ -49,7 +49,6 @@ Cryptocurrency projects involve risk.
 This project is under active   development.
 Please do your own research (DYOR).
 
-
 ## Token Details
 - Name: BITCOIN LITHIUM ENERGY 
 - Symbol: BLE

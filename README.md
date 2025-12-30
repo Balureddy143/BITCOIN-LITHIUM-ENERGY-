@@ -1,5 +1,6 @@
 <img src="IMG_20251228_100827.png" width="200">
 
+
 # Bitcoin Lithium Energy (BLE) ⚡
 
 **BLE = Bitcoin Lithium Energy**, a Solana-based cryptocurrency project focused on green energy, sustainable solutions, and crypto-enabled payments.  

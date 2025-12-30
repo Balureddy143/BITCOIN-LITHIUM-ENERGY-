@@ -68,6 +68,7 @@ Please do your own research (DYOR).
 - Twitter (X): https://x.com/@BITCOINLTENG
 - Telegram: https://t.me/BLE108
 
+
 ## Transparency
 - Liquidity: Planned / Locked
 - Mint Authority: Disabled (if applicable)

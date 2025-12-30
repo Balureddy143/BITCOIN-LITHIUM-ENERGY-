@@ -25,7 +25,7 @@ Bitcoin Lithium Energy aims to create a future-ready, blockchain-powered energy 
 - Symbol: BLE
 - Network: Solana
 - Official Mint Address: 
-- **Website & White Paper:**        **Solscan:** [View BLE Token](https://solscan.io/token/AgA3ddHsUPk19xqCQiN9nzmTjS5JVWFyRDuA79Svpump)-**Telegram:** [https://t.me/BLE108]  
+- **Solscan:** [View BLE Token](https://solscan.io/token/AgA3ddHsUPk19xqCQiN9nzmTjS5JVWFyRDuA79Svpump)-WEBSITE:**https://bitcoinlithiumenergy.carrd.co.                          -**Telegram:** [https://t.me/BLE108]   
 - **Twitter (X):** [https://x.com/BITCOINLTENG] 
 - **GitHub Repo:** [Project Repository](https://github.com/bitcoinlithiumenergy
 

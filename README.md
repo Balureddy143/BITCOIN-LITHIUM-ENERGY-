@@ -1,23 +1,22 @@
 <img src="IMG_20251228_100827.png" width="200">
 
 
-# Bitcoin-Lithium-Energy (BLE) ⚡
 
-**BLE = Bitcoin-Lithium-Energy**, a Solana-based crypto project for green energy, EV charging, and crypto payments.  
-⚠️ BLE here is **not related to Bluetooth Low Energy**.
+# Bitcoin Lithium Energy (BLE) ⚡
 
----
+**BLE = Bitcoin Lithium Energy**, a Solana-based crypto project focused on
+green energy solutions, EV charging infrastructure, and crypto-powered payments.
 
-## feature project Vision
-
-- Low-cost energy supply for homes  
-- Own EV charging points globally  
-- Accept crypto payments  
-- Green energy development & future projects  
-- BLE token as Solana utility token for real-world use
+🚫 **This BLE is NOT related to Bluetooth Low Energy (BLE).**
 
 ---
 
+## feature Project Vision
+
+- Low-cost energy supply for homes
+- Company-owned EV charging points
+- Crypto payments for energy & charging
+- Green energy production and future global expansion
 ## Token Info
 
 - **Network:** Solana  

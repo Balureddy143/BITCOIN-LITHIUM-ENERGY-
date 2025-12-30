@@ -9,7 +9,6 @@ and crypto-based payments.
 ⚠️ Note: BLE here refers to Bitcoin Lithium Energy,
 not Bluetooth Low Energy.
 
-
 # BITCOIN LITHIUM ENERGY (BLE)
 
 BITCOIN LITHIUM ENERGY (BLE) is a Solana-based crypto project focused on

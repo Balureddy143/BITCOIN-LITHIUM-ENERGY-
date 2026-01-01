@@ -22,16 +22,15 @@ The project explores clean energy concepts, renewable energy generation vision, 
 -  Alignment with future ESG-oriented     standards.
 
 ## 📌 Status
-This project is in early development and roadmap phases.  
-Features and utilities will be rolled out progressively.
+- This project is in early development   and roadmap phases.  
+- Features and utilities will be         rolled out progressively.
 
 
 ## 🤝 Community
 ## 🔗 Official Links
-- **Website & Whitepaper:** https://bitcoinlithiumenergy.carrd.co  
-- **Telegram:** https://t.me/BLE108  
-- **Twitter (X):** https://x.com/BITCOINLTENG  
-- **Solscan:** https://solscan.io/token/AgA3ddHsUPk19xqCQiN9nzmTjS5JVWFyRDuA79Svpump  
+- **Website & Whitepaper:**             https://bitcoinlithiumenergy.carrd.co - **Telegram:** https://t.me/BLE108  
+- **Twitter (X):**                         https://x.com/BITCOINLTENG  
+- **Solscan:**                         https://solscan.io/token/AgA3ddHsUPk19xqCQiN9nzmTjS5JVWFyRDuA79Svpump  
 ---
 
 ## 🔐 Blockchain & Security

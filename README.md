@@ -1,46 +1,70 @@
 <img src="IMG_20251228_100827.png" width="200">
 
+# Bitcoin Lithium Energy (BLE)
 
+**Bitcoin Lithium Energy (BLE)** is a long-term, Solana-based blockchain project focused on
+**sustainable energy innovation** and **crypto-powered real-world utilities**.
 
-# Bitcoin Lithium Energy (BLE) ⚡
-
-**BLE = Bitcoin Lithium Energy**, a Solana-based crypto project focused on
-green energy solutions, EV charging infrastructure, and crypto-powered payments.
-
-🚫 **This BLE is NOT related to Bluetooth Low Energy (BLE).**
+BLE aims to bridge **renewable energy**, **lithium-based power solutions**, and **blockchain technology** —
+starting as a Solana token and evolving toward practical, energy-focused use cases.
 
 ---
 
-## Feature Project Vision
+## 🌱 Project Vision
 
-- Future development of own green energy production
-- Low-cost energy supply planned for homes
-- Planned company-owned EV charging points (future phase)
-- Crypto payments for energy & EV charging services
-- Long-term vision for global clean energy infrastructure
+- Green & sustainable energy generation *(future phase)*
+- Affordable energy supply for homes
+- Development of EV charging infrastructure *(future phase)*
+- Crypto-based payments for energy services using **$BLE**
 
-## Token Info
+---
+
+## 🔐 Blockchain & Security
 
 - **Network:** Solana  
-- **Name:** Bitcoin Lithium Energy  
-- **Symbol:** BLE  
-- **Mint Address:** `AgA3ddHsUPk19xqCQiN9nzmTjS5JVWFyRDuA79Svpump`
+- **Token Symbol:** BLE  
+- **Mint Authority:** Revoked  
+- **Update Authority:** NULL *(metadata locked)*  
+- Fully on-chain, transparent, and community-driven  
 
 ---
 
-## Official Links
+## 🚀 Long-Term Goal
 
-- **Website & White Paper:** [https://bitcoinlithiumenergy.carrd.co](https://bitcoinlithiumenergy.carrd.co)  
-- **Telegram:** [https://t.me/BLE108] 
-- **Twitter (X):** [https://x.com/@BITCOINLTENG]
-- **Solscan:** [View BLE Token](https://solscan.io/token/AgA3ddHsUPk19xqCQiN9nzmTjS5JVWFyRDuA79Svpump)  
-- **GitHub Repo:** [Project Repository](https://github.com/bitcoinlithiumenergy
+To build an **energy-focused blockchain ecosystem** where **$BLE** becomes the native utility token
+used for:
+- Energy payments  
+- Infrastructure services  
+- Decentralized energy applications  
+
+BLE is **not a short-term meme token**.  
+It is a **vision-driven project** developed step-by-step with strong community support.
 
 ---
 
-## Disclaimer
+## ⚠️ Important Notice
 
-Cryptocurrency projects involve risk. This project is under active development. Please **do your own research (DYOR)**.
+**Bitcoin Lithium Energy (BLE) is NOT related to Bluetooth Low Energy.**  
+This project is focused on **energy + blockchain utilities**, not wireless technology.
+
+---
+
+## 🔗 Official Links
+
+- **Website & Whitepaper:** https://bitcoinlithiumenergy.carrd.co  
+- **Telegram:** https://t.me/BLE108  
+- **Twitter (X):** https://x.com/BITCOINLTENG  
+- **Solscan:** https://solscan.io/token/AgA3ddHsUPk19xqCQiN9nzmTjS5JVWFyRDuA79Svpump  
+
+---
+
+## 📢 Disclaimer
+
+Bitcoin Lithium Energy (BLE) is under active development.  
+All information represents **future plans and vision** and does **not** constitute financial advice.  
+Always **DYOR**.
+
+
 
 ## ⚠️ Scam Warning
 

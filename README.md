@@ -1,22 +1,34 @@
 <img src="IMG_20251228_100827.png" width="200">
 
-# Bitcoin Lithium Energy (BLE)
+# ⚡ Bitcoin Lithium Energy (BLE)
 
-**Bitcoin Lithium Energy (BLE)** is a long-term, Solana-based blockchain project focused on
-**sustainable energy innovation** and **crypto-powered real-world utilities**.
+Bitcoin Lithium Energy (BLE) is a long‑term digital energy project focused on sustainable innovation and future‑ready utility solutions.
 
-BLE aims to bridge **renewable energy**, **lithium-based power solutions**, and **blockchain technology** —
-starting as a Solana token and evolving toward practical, energy-focused use cases.
+## 🌱 Vision & Utility
 
----
+- ♻️ Green & sustainable energy initiatives *(future phase)*
+- 🔋 Own green energy generation *(solar / renewable‑focused vision)*
+- 🏠 Affordable and efficient energy solutions for homes
+- 🚗⚡ Future EV charging infrastructure
+- 💳 Crypto‑powered energy payments using **$BLE**
 
-## 🌱 Project Vision
+## 🚀 Mission
 
-- Green & sustainable energy generation *(future phase)*
-- Affordable energy supply for homes
-- Development of EV charging infrastructure *(future phase)*
-- Crypto-based payments for energy services using **$BLE**
+To bridge clean energy concepts with digital utility, enabling transparent, scalable, and future‑oriented energy solutions.
 
+## 📌 Status
+
+This project is in early development and roadmap phases.  
+Features and utilities will be rolled out progressively.
+
+## 🤝 Community
+
+## 🔗 Official Links
+
+- **Website & Whitepaper:** https://bitcoinlithiumenergy.carrd.co  
+- **Telegram:** https://t.me/BLE108  
+- **Twitter (X):** https://x.com/BITCOINLTENG  
+- **Solscan:** https://solscan.io/token/AgA3ddHsUPk19xqCQiN9nzmTjS5JVWFyRDuA79Svpump  
 ---
 
 ## 🔐 Blockchain & Security
@@ -46,15 +58,6 @@ It is a **vision-driven project** developed step-by-step with strong community s
 
 **Bitcoin Lithium Energy (BLE) is NOT related to Bluetooth Low Energy.**  
 This project is focused on **energy + blockchain utilities**, not wireless technology.
-
----
-
-## 🔗 Official Links
-
-- **Website & Whitepaper:** https://bitcoinlithiumenergy.carrd.co  
-- **Telegram:** https://t.me/BLE108  
-- **Twitter (X):** https://x.com/BITCOINLTENG  
-- **Solscan:** https://solscan.io/token/AgA3ddHsUPk19xqCQiN9nzmTjS5JVWFyRDuA79Svpump  
 
 ---
 

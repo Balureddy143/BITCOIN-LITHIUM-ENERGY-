@@ -44,7 +44,8 @@ BLE is designed as a utility-focused digital project and does not represent an i
 
 - **Network:** Solana
 - **Token type:** SPL
-- **Token Symbol:** BLE  
+- **Token Symbol:** BLE
+- **Total supply :** 1000000000-BLE
 - **Mint Authority:** Revoked  
 - **Update Authority:** NULL *(metadata locked)*  
 - Fully on-chain, transparent, and community-driven  
